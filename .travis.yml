@@ -4,7 +4,7 @@ arch:
  - amd64
  - ppc64le
  
-jdk: openjdk8
+jdk: openjdk11
 branches:
   only:
   - master
